@@ -26,7 +26,7 @@ Notice the console.log of your browser has more info about the mechanism of the 
 * Customer Lifetime Value(CLTV)
 
 ### Logging Checklist 
-*what you should log*
+*What you should log*
 * Requests from clients (GET, POST, etc.)
 * Errors
 * Failure alerts
@@ -37,3 +37,10 @@ Notice the console.log of your browser has more info about the mechanism of the 
 * Server response time
 * Time to page-ready event
 * Time to page-rendered event
+
+*What you should NOT log*
+* Passwords
+* Secret tokens
+* Credit card numbers
+* Information that would hurt user privacy
+* Classified information
