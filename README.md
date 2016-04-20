@@ -20,7 +20,7 @@ Notice the console.log of your browser has more info about the mechanism of the 
 
 ##  Some important words in Business Analytics **
 * Viral factor(K-factor)
-* Church Rate
+* Churn Rate
 * Monthly Recurring Revenue(MRR)
 * Customer Acquisition Cost
 * Customer Lifetime Value(CLTV)
@@ -44,3 +44,5 @@ Notice the console.log of your browser has more info about the mechanism of the 
 * Credit card numbers
 * Information that would hurt user privacy
 * Classified information
+* 
+## Master Analytics in the World of BigData 
